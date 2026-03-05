@@ -1,0 +1,16 @@
+assessment_reports/
+demo_reports/
+validation_output/
+validation_test_reports/
+evidence_documents/
+evidence_request/
+__pycache__/
+*.pyc
+*.json
+!requirements.txt
+.env
+CONVERSATION_HISTORY.txt
+SESSION_LOG.md
+NOTION_PROJECT_NOTES.md
+.DS_Store
+6/
